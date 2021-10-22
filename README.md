@@ -7,7 +7,7 @@ Clone this repository:
 git clone https://github.com/facialGAN/facialGAN
 ```
 
-## ToolBox for attribute manipulation
+## ToolBox for style and attribute manipulation
 
 We have developed an interactive facial toolbox that allows an easy manipulation of both styles and attributes.  The user only needs to select the source image and the reference that wants to apply.  Then, our model will produce the desired combination. On top of that, the user also can alter the default mask and the effects will be displayed on the output.
 
