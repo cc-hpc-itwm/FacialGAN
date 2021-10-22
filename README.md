@@ -48,11 +48,16 @@ python demo.py
 cd FacialGAN/Training
 mkdir data
 ```
-Download CelebA-HQ
+
 ```bash
-bash download.sh celeba-hq-dataset
+bash download.sh celeba-hq-dataset 
 ```
 Download [CelebAMask-HQ](https://drive.google.com/file/d/1badu11NqxGf6qM3PTTooQDJvQbejgbTv/view) and save it in data folder.
+
+```bash
+bash download.sh celebaMask-hq-dataset 
+```
+Note: the script might need ~30 min
 
 Download [Pretrained Segemtation Model (weights_seg.pth)](https://osf.io/jreq5/?view_only=e05906fa10cb4b8b8f22a82501205d12) and save it in core folder.
 
