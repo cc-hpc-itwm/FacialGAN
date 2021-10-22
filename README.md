@@ -1,4 +1,4 @@
-# FacialGAN - Official PyTorch Implementation (BMVC paper)
+# FacialGAN - Official PyTorch Implementation (BMVC '21)
 
 <p align="left"><img width="95%" src="assets/teaser.jpg" /></p>
 
